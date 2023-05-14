@@ -7,6 +7,7 @@
 
 <img width="1674" alt="image" src="https://github.com/coseto6125/test_smart_contract_web3/assets/80243681/0054287d-ee8d-4654-8d2b-688f1fdd0fca">
 
+![1684095218123](image/README/1684095218123.png)
 
 Allure report page(測試報告結果頁面)：[https://coseto6125.github.io/test_smart_contract_web3/
 ](https://coseto6125.github.io/test_smart_contract_web3/)
