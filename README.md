@@ -30,6 +30,10 @@ v1 . image
 
 最後，測試結果被保存為HTML格式的報告，可以通過瀏覽器查看。該腳本可以用於測試以太坊智能合約開發中的轉賬功能，也可以作為拓展其他智能結合測試的基本代碼。
 
+test with Ganache
+
+![1684095831096](image/README/1684095831096.png)
+
 # test_smart_contract_web3
 
 This is a Python script for testing transfer functions in Ethereum smart contracts. It uses multiple Python libraries, including web3, eth_account, solcx, loguru, and orjson.
