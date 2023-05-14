@@ -9,7 +9,7 @@ Allure report page(測試報告結果頁面)：[https://coseto6125.github.io/tes
 ](https://coseto6125.github.io/test_smart_contract_web3/)
 
 較完整頁面：[https://coseto6125.github.io/test_smart_contract_web3/#behaviors/aca6e1eb8281a67176e0d2a648d01a32/2c1116b2873ebc43/]()[
-](https://coseto6125.github.io/test_smart_contract_web3/)
+](https://coseto6125.github.io/test_smart_contract_web3/#behaviors/aca6e1eb8281a67176e0d2a648d01a32/2c1116b2873ebc43/)
 
 ## 概要
 
@@ -31,7 +31,7 @@ Please note that the addresses and keys used in this code are specific to the Ga
 
 Allure report page：[https://coseto6125.github.io/test_smart_contract_web3/](https://coseto6125.github.io/test_smart_contract_web3/)
 
-more detail page: [https://coseto6125.github.io/test_smart_contract_web3/#behaviors/aca6e1eb8281a67176e0d2a648d01a32/2c1116b2873ebc43/]()
+more detail page: [https://coseto6125.github.io/test_smart_contract_web3/#behaviors/aca6e1eb8281a67176e0d2a648d01a32/2c1116b2873ebc43/](https://coseto6125.github.io/test_smart_contract_web3/#behaviors/aca6e1eb8281a67176e0d2a648d01a32/2c1116b2873ebc43/)
 
 ## Overview
 
