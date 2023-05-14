@@ -5,7 +5,11 @@
 
 **請注意，此代碼中使用的地址和密匙為 Ganache 虛擬環境產生。**
 
-Allure report page(測試報告結果頁面)：[https://coseto6125.github.io/test_smart_contract_web3/](https://coseto6125.github.io/test_smart_contract_web3/)
+Allure report page(測試報告結果頁面)：[https://coseto6125.github.io/test_smart_contract_web3/
+](https://coseto6125.github.io/test_smart_contract_web3/)
+
+較完整頁面：[https://coseto6125.github.io/test_smart_contract_web3/#behaviors/aca6e1eb8281a67176e0d2a648d01a32/2c1116b2873ebc43/]()[
+](https://coseto6125.github.io/test_smart_contract_web3/)
 
 ## 概要
 
@@ -26,6 +30,8 @@ This is a Python script for testing transfer functions in Ethereum smart contrac
 Please note that the addresses and keys used in this code are specific to the Ganache virtual environment and should not be used in a production environment.
 
 Allure report page：[https://coseto6125.github.io/test_smart_contract_web3/](https://coseto6125.github.io/test_smart_contract_web3/)
+
+more detail page: [https://coseto6125.github.io/test_smart_contract_web3/#behaviors/aca6e1eb8281a67176e0d2a648d01a32/2c1116b2873ebc43/]()
 
 ## Overview
 
