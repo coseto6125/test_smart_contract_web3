@@ -9,12 +9,12 @@ Allure report page(測試報告結果頁面)：[https://coseto6125.github.io/tes
 
 較完整頁面：[https://coseto6125.github.io/test_smart_contract_web3/#behaviors/aca6e1eb8281a67176e0d2a648d01a32/2c1116b2873ebc43/](https://coseto6125.github.io/test_smart_contract_web3/#behaviors/aca6e1eb8281a67176e0d2a648d01a32/2c1116b2873ebc43/)
 
-**請注意，此代碼中使用的地址和密匙為 Ganache 虛擬環境產生。
-v1 . image**
+**請注意，此代碼中使用的地址和密匙為 Ganache 虛擬環境產生。**
+v1 . image
 
 <img width="1674" alt="image" src="https://github.com/coseto6125/test_smart_contract_web3/assets/80243681/0054287d-ee8d-4654-8d2b-688f1fdd0fca">
 
-v1 . image
+v2 . image
 ![1684095218123](image/README/1684095218123.png)
 
 
