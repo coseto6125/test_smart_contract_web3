@@ -1,15 +1,36 @@
 # test_smart_contract_web3
 
-這是一個用於測試以太坊智能結合約中轉帳功能的Python腳本，
-使用了多個Python庫，包括web3、eth_account、solcx、loguru和orjson。
+這是一個用於測試以太坊智能結合約中轉帳功能的 Python 腳本，
+使用了多個 Python 庫，包括 web3、eth_account、solcx、loguru 和 orjson。
+安全性檢測工具為：Slither。
+
+Allure report page(測試報告結果頁面)：[https://coseto6125.github.io/test_smart_contract_web3/
+](https://coseto6125.github.io/test_smart_contract_web3/)
+
+較完整頁面：[https://coseto6125.github.io/test_smart_contract_web3/#behaviors/aca6e1eb8281a67176e0d2a648d01a32/2c1116b2873ebc43/](https://coseto6125.github.io/test_smart_contract_web3/#behaviors/aca6e1eb8281a67176e0d2a648d01a32/2c1116b2873ebc43/)
 
 **請注意，此代碼中使用的地址和密匙為 Ganache 虛擬環境產生。**
+v1 . image
 
 Allure report page(測試報告結果頁面)：[https://coseto6125.github.io/test_smart_contract_web3/
 ](https://coseto6125.github.io/test_smart_contract_web3/)
 
 較完整頁面：[https://coseto6125.github.io/test_smart_contract_web3/#behaviors/aca6e1eb8281a67176e0d2a648d01a32/2c1116b2873ebc43/]()[
 ](https://coseto6125.github.io/test_smart_contract_web3/)
+
+v1 . image
+
+** 請注意，此代碼中使用的地址和密匙為 Ganache 虛擬環境產生。
+v1 . image**
+
+**請注意，此代碼中使用的地址和密匙為 Ganache 虛擬環境產生。**
+
+v1 . image
+`<img width="1674" alt="image" src="https://github.com/coseto6125/test_smart_contract_web3/assets/80243681/0054287d-ee8d-4654-8d2b-688f1fdd0fca">`
+
+
+v1 . image
+![1684095218123](image/README/1684095218123.png)
 
 ## 概要
 
@@ -21,7 +42,7 @@ Allure report page(測試報告結果頁面)：[https://coseto6125.github.io/tes
 
 該報告包含了測試用例的詳細信息、測試結果和相關日期誌等。所有測試測試用例都被分組為一個名為“測試智能合約”的測試特性。每個測試用例都有一個標題和多個步驟，用於詳細描述測試過程和測試結果。
 
-最後，測試結果被保存為HTML格式的報告，可以通過瀏覽器查看。該腳本可以用於測試以太坊智能合約開發中的轉賬功能，也可以作為拓展其他智能結合測試的基本代碼。
+最後，測試結果被保存為 HTML 格式的報告，可以通過瀏覽器查看。該腳本可以用於測試以太坊智能合約開發中的轉賬功能，也可以作為拓展其他智能結合測試的基本代碼。
 
 # test_smart_contract_web3
 
@@ -31,7 +52,9 @@ Please note that the addresses and keys used in this code are specific to the Ga
 
 Allure report page：[https://coseto6125.github.io/test_smart_contract_web3/](https://coseto6125.github.io/test_smart_contract_web3/)
 
-more detail page: [https://coseto6125.github.io/test_smart_contract_web3/#behaviors/aca6e1eb8281a67176e0d2a648d01a32/2c1116b2873ebc43/]()
+=======
+more detail page: [https://coseto6125.github.io/test_smart_contract_web3/#behaviors/aca6e1eb8281a67176e0d2a648d01a32/2c1116b2873ebc43/](https://coseto6125.github.io/test_smart_contract_web3/#behaviors/aca6e1eb8281a67176e0d2a648d01a32/2c1116b2873ebc43/)
+
 
 ## Overview
 
