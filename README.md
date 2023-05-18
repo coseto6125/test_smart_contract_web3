@@ -13,11 +13,37 @@ Allure report page(測試報告結果頁面)：[https://coseto6125.github.io/tes
 v1 . image
 
 <img width="1674" alt="image" src="https://github.com/coseto6125/test_smart_contract_web3/assets/80243681/0054287d-ee8d-4654-8d2b-688f1fdd0fca">
+v2 . image
+![1684095218123](image/README/1684095218123.png)
+
+=======
+v1 . image
+=======
+**請注意，此代碼中使用的地址和密匙為 Ganache 虛擬環境產生。
+v1 . image**
+=======
+**請注意，此代碼中使用的地址和密匙為 Ganache 虛擬環境產生。**
+<<<<<<< HEAD
+v1 . image
+>>>>>>> abeea39 (Update README.md)
+=======
+>>>>>>> 799bcda (Update README.md)
+
+v1 . image
+`<img width="1674" alt="image" src="https://github.com/coseto6125/test_smart_contract_web3/assets/80243681/0054287d-ee8d-4654-8d2b-688f1fdd0fca">`
+>>>>>>> ac0e269 (update readme)
 
 v1 . image
 ![1684095218123](image/README/1684095218123.png)
 
+<<<<<<< HEAD
 
+<<<<<<< HEAD
+=======
+>>>>>>> 450da36 (update readme)
+=======
+>>>>>>> bdb5cf4 (update readme)
+>>>>>>> ac0e269 (update readme)
 ## 概要
 
 該腳本連接到本地的以太坊節點，譯了一個名為 SimpleTransfer 的 Solidity 智能合約。該合約實現了轉賬功能，並使用數字簽名來驗證轉賬請求的合法性。
