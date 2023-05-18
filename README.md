@@ -12,11 +12,10 @@ Allure report page(測試報告結果頁面)：[https://coseto6125.github.io/tes
 **請注意，此代碼中使用的地址和密匙為 Ganache 虛擬環境產生。**
 
 v1 . image
-<img width="1674" alt="image" src="https://github.com/coseto6125/test_smart_contract_web3/assets/80243681/0054287d-ee8d-4654-8d2b-688f1fdd0fca">
+`<img width="1674" alt="image" src="https://github.com/coseto6125/test_smart_contract_web3/assets/80243681/0054287d-ee8d-4654-8d2b-688f1fdd0fca">`
 
 v2 . image
 ![1684095218123](image/README/1684095218123.png)
-
 
 ## 概要
 
@@ -45,7 +44,7 @@ Allure report page：[https://coseto6125.github.io/test_smart_contract_web3/](ht
 
 more detail page: [https://coseto6125.github.io/test_smart_contract_web3/#behaviors/aca6e1eb8281a67176e0d2a648d01a32/2c1116b2873ebc43/](https://coseto6125.github.io/test_smart_contract_web3/#behaviors/aca6e1eb8281a67176e0d2a648d01a32/2c1116b2873ebc43/)
 
-## Overview
+## Overview.
 
 The script connects to a local Ethereum node and compiles a Solidity smart contract named SimpleTransfer. This contract implements the transfer function and uses digital signatures to verify the legality of transfer requests. The testing script performs comprehensive testing on the smart contract by deploying the contract, constructing transfer requests, verifying digital signatures, and checking transfer results.
 
